@@ -11,7 +11,7 @@ Product.init(
   {
     id: {
       type: DataTypes.INTEGER,
-      PrimaryKey: true,
+      primaryKey: true,
       allowNull: false,
       autoIncrement: true,
     },
